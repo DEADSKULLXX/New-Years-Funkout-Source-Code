@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EJ.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EJ down0000" x="22" y="22" width="411" height="607" frameX="0" frameY="-8" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0001" x="22" y="22" width="411" height="607" frameX="0" frameY="-8" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0002" x="441" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0003" x="441" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0004" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0005" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0006" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0007" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0008" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0009" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0010" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0011" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0012" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0013" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0014" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0015" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0016" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0017" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0018" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0019" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0020" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0021" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0022" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0023" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0024" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0025" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ down0026" x="857" y="22" width="408" height="616" frameX="-3" frameY="0" frameWidth="411" frameHeight="616"/>
+	<SubTexture name="EJ idle0000" x="1273" y="22" width="416" height="607" frameX="-15" frameY="-16" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0001" x="22" y="646" width="419" height="617" frameX="-15" frameY="-7" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0002" x="22" y="646" width="419" height="617" frameX="-15" frameY="-7" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0003" x="449" y="646" width="416" height="622" frameX="-3" frameY="-2" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0004" x="449" y="646" width="416" height="622" frameX="-3" frameY="-2" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0005" x="873" y="646" width="409" height="623" frameX="-1" frameY="-1" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0006" x="1290" y="646" width="408" height="624" frameX="0" frameY="0" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0007" x="1290" y="646" width="408" height="624" frameX="0" frameY="0" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0008" x="1290" y="646" width="408" height="624" frameX="0" frameY="0" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0009" x="1290" y="646" width="408" height="624" frameX="0" frameY="0" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0010" x="1290" y="646" width="408" height="624" frameX="0" frameY="0" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0011" x="1290" y="646" width="408" height="624" frameX="0" frameY="0" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ idle0012" x="1290" y="646" width="408" height="624" frameX="0" frameY="0" frameWidth="434" frameHeight="624"/>
+	<SubTexture name="EJ left0000" x="22" y="1278" width="456" height="624" frameX="0" frameY="0" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0001" x="22" y="1278" width="456" height="624" frameX="0" frameY="0" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0002" x="486" y="1278" width="452" height="619" frameX="-15" frameY="-5" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0003" x="486" y="1278" width="452" height="619" frameX="-15" frameY="-5" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0004" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0005" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0006" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0007" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0008" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0009" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0010" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0011" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0012" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0013" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ left0014" x="946" y="1278" width="449" height="617" frameX="-21" frameY="-7" frameWidth="470" frameHeight="624"/>
+	<SubTexture name="EJ right0000" x="1403" y="1278" width="444" height="626"/>
+	<SubTexture name="EJ right0001" x="1403" y="1278" width="444" height="626"/>
+	<SubTexture name="EJ right0002" x="22" y="1912" width="423" height="625" frameX="0" frameY="0" frameWidth="444" frameHeight="626"/>
+	<SubTexture name="EJ right0003" x="22" y="1912" width="423" height="625" frameX="0" frameY="0" frameWidth="444" frameHeight="626"/>
+	<SubTexture name="EJ right0004" x="453" y="1912" width="418" height="625" frameX="0" frameY="0" frameWidth="444" frameHeight="626"/>
+	<SubTexture name="EJ right0005" x="453" y="1912" width="418" height="625" frameX="0" frameY="0" frameWidth="444" frameHeight="626"/>
+	<SubTexture name="EJ right0006" x="453" y="1912" width="418" height="625" frameX="0" frameY="0" frameWidth="444" frameHeight="626"/>
+	<SubTexture name="EJ right0007" x="453" y="1912" width="418" height="625" frameX="0" frameY="0" frameWidth="444" frameHeight="626"/>
+	<SubTexture name="EJ right0008" x="453" y="1912" width="418" height="625" frameX="0" frameY="0" frameWidth="444" frameHeight="626"/>
+	<SubTexture name="EJ right0009" x="453" y="1912" width="418" height="625" frameX="0" frameY="0" frameWidth="444" frameHeight="626"/>
+	<SubTexture name="EJ right0010" x="453" y="1912" width="418" height="625" frameX="0" frameY="0" frameWidth="444" frameHeight="626"/>
+	<SubTexture name="EJ up0000" x="879" y="1912" width="410" height="642"/>
+	<SubTexture name="EJ up0001" x="879" y="1912" width="410" height="642"/>
+	<SubTexture name="EJ up0002" x="1297" y="1912" width="408" height="630" frameX="-2" frameY="-12" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0003" x="1297" y="1912" width="408" height="630" frameX="-2" frameY="-12" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0004" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0005" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0006" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0007" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0008" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0009" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0010" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0011" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0012" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0013" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+	<SubTexture name="EJ up0014" x="22" y="2562" width="408" height="627" frameX="-2" frameY="-15" frameWidth="410" frameHeight="642"/>
+</TextureAtlas>

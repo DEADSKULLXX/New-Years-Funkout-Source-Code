@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Where the hell am I?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "EJ",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welcome........"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "EJ",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Who......are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "EJ",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My name is EJ, I saw your success over this year. You really went far....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Really?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "EJ",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, you have a lot of people watching over you and your endeavours. We love you man."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "oh........that's......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "really thoughtful."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "EJ",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, before this year ends......wanna have a rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Yeah, anything for a fan. Bring it on!!!"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"storyName": "Happy New Years",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "snowy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Welcome",
+			"ej",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Years-End",
+			"ej",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
